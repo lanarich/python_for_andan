@@ -16,7 +16,7 @@ st.dataframe(df)
 st.table(df)
 
 # metrics
-st.metric("KPI", 56, 3)
+st.metric("KPI", 56, -3)
 
 # json
 st.json(df.to_dict())
