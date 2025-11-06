@@ -5,5 +5,6 @@
 
 Формула оценки: 0,19*Дз1 + 0,19*Дз2 + 0,19*Дз3 + 0,2*Семинарская активность 0,23*экзамен
 
-Ведомость: https://docs.google.com/spreadsheets/d/10_v2oHhfKnSgMTwlQ5dSeB-bhLEyAXurjqIhbVdFIDk/edit?usp=sharing
+Ведомость: https://drive.google.com/drive/folders/1x0LdJGyB8WougH3pJaIc5mfVy0Efry5r?usp=sharing
+
 
